@@ -8,6 +8,6 @@
     "jest": "27.5.1",
     "jest-mock": "27.5.1",
     "ts-node": "10.9.1",
-    "typescript": "5.3.2"
+    "typescript": "5.3.3"
   }
 }
